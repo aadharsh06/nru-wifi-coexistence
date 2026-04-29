@@ -1,0 +1,369 @@
+aadharsh@mlmacs:~/testing/ns-allinone-3.45/ns-3.45$ bash fig_1_2.sh
+Building simulation...
+[0/2] Re-checking globbed directories...
+ninja: no work to do.
+Finished executing the following commands:
+/usr/bin/cmake --build /home/aadharsh/testing/ns-allinone-3.45/ns-3.45/cmake-cache -j 23 --target scratch_sim-1
+Build successful.
+[STARTING] Lambda=0.1000 | Run=0 (Running in background...)
+[STARTING] Lambda=0.1000 | Run=1 (Running in background...)
+[STARTING] Lambda=0.1000 | Run=4 (Running in background...)
+[STARTING] Lambda=0.1000 | Run=2 (Running in background...)
+[STARTING] Lambda=0.1000 | Run=3 (Running in background...)
+[STARTING] Lambda=0.1000 | Run=5 (Running in background...)
+[STARTING] Lambda=0.1000 | Run=6 (Running in background...)
+[STARTING] Lambda=0.1000 | Run=7 (Running in background...)
+[STARTING] Lambda=0.1000 | Run=9 (Running in background...)
+[STARTING] Lambda=0.1000 | Run=8 (Running in background...)
+[STARTING] Lambda=0.1874 | Run=0 (Running in background...)
+[STARTING] Lambda=0.1874 | Run=1 (Running in background...)
+[STARTING] Lambda=0.1874 | Run=4 (Running in background...)
+[STARTING] Lambda=0.1874 | Run=2 (Running in background...)
+[STARTING] Lambda=0.1874 | Run=3 (Running in background...)
+[STARTING] Lambda=0.1874 | Run=6 (Running in background...)
+[STARTING] Lambda=0.1874 | Run=7 (Running in background...)
+[STARTING] Lambda=0.1874 | Run=8 (Running in background...)
+[STARTING] Lambda=0.1874 | Run=5 (Running in background...)
+[STARTING] Lambda=0.1874 | Run=9 (Running in background...)
+[FINISHED] Lambda=0.1000 Run=0 | NR-U: 1.15988 Mbps 1.02248 ms | WiFi: 1.18033 Mbps 0.806092 ms
+Progress: [1/120] complete.
+[STARTING] Lambda=0.3511 | Run=0 (Running in background...)
+[FINISHED] Lambda=0.1000 Run=9 | NR-U: 1.20317 Mbps 0.50917 ms | WiFi: 1.18933 Mbps 0.63317 ms
+[FINISHED] Lambda=0.1000 Run=2 | NR-U: 1.17197 Mbps 1.08714 ms | WiFi: 1.17608 Mbps 1.08321 ms
+[FINISHED] Lambda=0.1000 Run=5 | NR-U: 1.18075 Mbps 0.79948 ms | WiFi: 1.17789 Mbps 0.859298 ms
+[FINISHED] Lambda=0.1000 Run=8 | NR-U: 1.19732 Mbps 0.476063 ms | WiFi: 1.16263 Mbps 1.00611 ms
+[FINISHED] Lambda=0.1000 Run=3 | NR-U: 1.1971 Mbps 0.564166 ms | WiFi: 1.18261 Mbps 0.593595 ms
+[FINISHED] Lambda=0.1000 Run=4 | NR-U: 1.19253 Mbps 0.643308 ms | WiFi: 1.17575 Mbps 1.05949 ms
+[FINISHED] Lambda=0.1000 Run=1 | NR-U: 1.19531 Mbps 0.743583 ms | WiFi: 1.16705 Mbps 0.820614 ms
+Progress: [2/120] complete.
+Progress: [3/120] complete.
+Progress: [4/120] complete.
+[STARTING] Lambda=0.3511 | Run=2 (Running in background...)
+[STARTING] Lambda=0.3511 | Run=1 (Running in background...)
+Progress: [5/120] complete.
+Progress: [6/120] complete.
+[STARTING] Lambda=0.3511 | Run=3 (Running in background...)
+[STARTING] Lambda=0.3511 | Run=4 (Running in background...)
+[STARTING] Lambda=0.3511 | Run=5 (Running in background...)
+[FINISHED] Lambda=0.1000 Run=6 | NR-U: 1.17192 Mbps 1.06407 ms | WiFi: 1.17752 Mbps 0.921957 ms
+Progress: [7/120] complete.
+[STARTING] Lambda=0.3511 | Run=6 (Running in background...)
+[FINISHED] Lambda=0.1000 Run=7 | NR-U: 1.17726 Mbps 0.825337 ms | WiFi: 1.18519 Mbps 1.00876 ms
+Progress: [8/120] complete.
+Progress: [9/120] complete.
+[STARTING] Lambda=0.3511 | Run=7 (Running in background...)
+Progress: [10/120] complete.
+[STARTING] Lambda=0.3511 | Run=8 (Running in background...)
+[STARTING] Lambda=0.3511 | Run=9 (Running in background...)
+[FINISHED] Lambda=0.1874 Run=8 | NR-U: 2.20145 Mbps 0.971737 ms | WiFi: 2.16128 Mbps 1.14894 ms
+[FINISHED] Lambda=0.1874 Run=9 | NR-U: 2.2098 Mbps 1.36869 ms | WiFi: 2.15942 Mbps 1.5282 ms
+[FINISHED] Lambda=0.1874 Run=1 | NR-U: 2.15131 Mbps 1.72084 ms | WiFi: 2.11834 Mbps 1.9866 ms
+[FINISHED] Lambda=0.1874 Run=4 | NR-U: 2.17224 Mbps 1.8442 ms | WiFi: 2.17196 Mbps 1.77648 ms
+[FINISHED] Lambda=0.1874 Run=6 | NR-U: 2.1077 Mbps 1.91485 ms | WiFi: 2.13488 Mbps 1.99356 ms
+[FINISHED] Lambda=0.1874 Run=5 | NR-U: 2.11624 Mbps 2.61065 ms | WiFi: 2.14565 Mbps 2.00344 ms
+[FINISHED] Lambda=0.1874 Run=2 | NR-U: 2.10505 Mbps 2.0427 ms | WiFi: 2.12249 Mbps 2.05019 ms
+[FINISHED] Lambda=0.1874 Run=3 | NR-U: 2.157 Mbps 1.59261 ms | WiFi: 2.18654 Mbps 1.11699 ms
+[FINISHED] Lambda=0.1874 Run=0 | NR-U: 2.15702 Mbps 1.52804 ms | WiFi: 2.1699 Mbps 1.4401 ms
+Progress: [11/120] complete.
+Progress: [12/120] complete.
+[STARTING] Lambda=0.6579 | Run=0 (Running in background...)
+Progress: [13/120] complete.
+[STARTING] Lambda=0.6579 | Run=1 (Running in background...)
+Progress: [14/120] complete.
+[STARTING] Lambda=0.6579 | Run=2 (Running in background...)
+Progress: [15/120] complete.
+[STARTING] Lambda=0.6579 | Run=3 (Running in background...)
+Progress: [16/120] complete.
+[STARTING] Lambda=0.6579 | Run=4 (Running in background...)
+Progress: [17/120] complete.
+[STARTING] Lambda=0.6579 | Run=5 (Running in background...)
+[STARTING] Lambda=0.6579 | Run=6 (Running in background...)
+[FINISHED] Lambda=0.1874 Run=7 | NR-U: 2.11769 Mbps 2.34298 ms | WiFi: 2.10796 Mbps 2.4603 ms
+Progress: [18/120] complete.
+Progress: [19/120] complete.
+[STARTING] Lambda=0.6579 | Run=7 (Running in background...)
+Progress: [20/120] complete.
+[STARTING] Lambda=0.6579 | Run=8 (Running in background...)
+[STARTING] Lambda=0.6579 | Run=9 (Running in background...)
+[FINISHED] Lambda=0.3511 Run=0 | NR-U: 3.17926 Mbps 4.85622 ms | WiFi: 3.50306 Mbps 3.94236 ms
+Progress: [21/120] complete.
+[STARTING] Lambda=1.2328 | Run=0 (Running in background...)
+[FINISHED] Lambda=0.3511 Run=4 | NR-U: 3.12338 Mbps 5.52888 ms | WiFi: 3.36766 Mbps 4.3135 ms
+[FINISHED] Lambda=0.3511 Run=3 | NR-U: 3.27363 Mbps 4.75071 ms | WiFi: 3.5931 Mbps 3.4859 ms
+[FINISHED] Lambda=0.3511 Run=8 | NR-U: 3.40732 Mbps 3.71763 ms | WiFi: 3.71159 Mbps 2.91972 ms
+[FINISHED] Lambda=0.3511 Run=5 | NR-U: 2.93214 Mbps 6.90387 ms | WiFi: 3.32724 Mbps 4.47655 ms
+[FINISHED] Lambda=0.3511 Run=1 | NR-U: 3.23932 Mbps 4.89073 ms | WiFi: 3.41595 Mbps 3.84647 ms
+Progress: [22/120] complete.
+[STARTING] Lambda=1.2328 | Run=1 (Running in background...)
+[FINISHED] Lambda=0.3511 Run=6 | NR-U: 3.18574 Mbps 4.60939 ms | WiFi: 3.42741 Mbps 3.8014 ms
+[FINISHED] Lambda=0.3511 Run=2 | NR-U: 3.31675 Mbps 4.45118 ms | WiFi: 3.28269 Mbps 4.53774 ms
+Progress: [23/120] complete.
+Progress: [24/120] complete.
+[STARTING] Lambda=1.2328 | Run=2 (Running in background...)
+Progress: [25/120] complete.
+[STARTING] Lambda=1.2328 | Run=3 (Running in background...)
+Progress: [26/120] complete.
+Progress: [27/120] complete.
+[STARTING] Lambda=1.2328 | Run=4 (Running in background...)
+[STARTING] Lambda=1.2328 | Run=5 (Running in background...)
+[STARTING] Lambda=1.2328 | Run=6 (Running in background...)
+[FINISHED] Lambda=0.3511 Run=9 | NR-U: 3.27706 Mbps 4.64283 ms | WiFi: 3.39453 Mbps 4.43034 ms
+[FINISHED] Lambda=0.6579 Run=3 | NR-U: 4.02383 Mbps 7.06891 ms | WiFi: 4.84527 Mbps 5.54675 ms
+[FINISHED] Lambda=0.3511 Run=7 | NR-U: 3.1515 Mbps 5.1153 ms | WiFi: 3.31834 Mbps 4.36523 ms
+Progress: [28/120] complete.
+Progress: [29/120] complete.
+[STARTING] Lambda=1.2328 | Run=7 (Running in background...)
+Progress: [30/120] complete.
+[STARTING] Lambda=1.2328 | Run=8 (Running in background...)
+[STARTING] Lambda=1.2328 | Run=9 (Running in background...)
+[FINISHED] Lambda=0.6579 Run=4 | NR-U: 3.9295 Mbps 6.91566 ms | WiFi: 4.74217 Mbps 5.35514 ms
+[FINISHED] Lambda=0.6579 Run=0 | NR-U: 3.7945 Mbps 7.44036 ms | WiFi: 4.9373 Mbps 5.21121 ms
+Progress: [31/120] complete.
+[STARTING] Lambda=2.3101 | Run=0 (Running in background...)
+[FINISHED] Lambda=0.6579 Run=5 | NR-U: 3.48219 Mbps 9.18128 ms | WiFi: 4.61623 Mbps 5.78622 ms
+[FINISHED] Lambda=0.6579 Run=1 | NR-U: 3.93125 Mbps 7.47833 ms | WiFi: 4.83897 Mbps 5.44059 ms
+Progress: [32/120] complete.
+[STARTING] Lambda=2.3101 | Run=1 (Running in background...)
+[FINISHED] Lambda=0.6579 Run=9 | NR-U: 4.03534 Mbps 7.26228 ms | WiFi: 4.56475 Mbps 5.91713 ms
+[FINISHED] Lambda=0.6579 Run=8 | NR-U: 4.20293 Mbps 6.20073 ms | WiFi: 5.12497 Mbps 4.8111 ms
+[FINISHED] Lambda=0.6579 Run=2 | NR-U: 3.9372 Mbps 6.91741 ms | WiFi: 4.60571 Mbps 5.27233 ms
+Progress: [33/120] complete.
+Progress: [34/120] complete.
+[STARTING] Lambda=2.3101 | Run=2 (Running in background...)
+Progress: [35/120] complete.
+Progress: [36/120] complete.
+[STARTING] Lambda=2.3101 | Run=3 (Running in background...)
+[STARTING] Lambda=2.3101 | Run=5 (Running in background...)
+[STARTING] Lambda=2.3101 | Run=4 (Running in background...)
+[FINISHED] Lambda=0.6579 Run=6 | NR-U: 3.55023 Mbps 8.82684 ms | WiFi: 5.03578 Mbps 4.46471 ms
+Progress: [37/120] complete.
+[STARTING] Lambda=2.3101 | Run=6 (Running in background...)
+[FINISHED] Lambda=1.2328 Run=0 | NR-U: 4.41237 Mbps 7.6932 ms | WiFi: 6.26936 Mbps 5.681 ms
+[FINISHED] Lambda=0.6579 Run=7 | NR-U: 3.92959 Mbps 7.40731 ms | WiFi: 4.57737 Mbps 5.3629 ms
+Progress: [38/120] complete.
+Progress: [39/120] complete.
+[STARTING] Lambda=2.3101 | Run=7 (Running in background...)
+Progress: [40/120] complete.
+[STARTING] Lambda=2.3101 | Run=8 (Running in background...)
+Progress: [41/120] complete.
+[STARTING] Lambda=2.3101 | Run=9 (Running in background...)
+[STARTING] Lambda=4.3288 | Run=0 (Running in background...)
+[FINISHED] Lambda=1.2328 Run=1 | NR-U: 4.20987 Mbps 8.47179 ms | WiFi: 6.47876 Mbps 5.35518 ms
+Progress: [42/120] complete.
+[STARTING] Lambda=4.3288 | Run=1 (Running in background...)
+[FINISHED] Lambda=1.2328 Run=3 | NR-U: 4.56782 Mbps 7.84731 ms | WiFi: 5.91891 Mbps 6.06124 ms
+[FINISHED] Lambda=1.2328 Run=2 | NR-U: 4.60067 Mbps 7.82616 ms | WiFi: 5.95974 Mbps 5.27663 ms
+Progress: [43/120] complete.
+Progress: [44/120] complete.
+[STARTING] Lambda=4.3288 | Run=2 (Running in background...)
+[STARTING] Lambda=4.3288 | Run=3 (Running in background...)
+[FINISHED] Lambda=1.2328 Run=5 | NR-U: 3.75692 Mbps 9.90339 ms | WiFi: 6.09231 Mbps 5.25349 ms
+[FINISHED] Lambda=1.2328 Run=9 | NR-U: 4.50242 Mbps 8.38633 ms | WiFi: 5.98106 Mbps 5.75185 ms
+[FINISHED] Lambda=1.2328 Run=4 | NR-U: 4.50584 Mbps 7.66251 ms | WiFi: 6.36237 Mbps 5.15551 ms
+Progress: [45/120] complete.
+Progress: [46/120] complete.
+[STARTING] Lambda=4.3288 | Run=4 (Running in background...)
+[STARTING] Lambda=4.3288 | Run=5 (Running in background...)
+[FINISHED] Lambda=1.2328 Run=7 | NR-U: 4.34995 Mbps 8.17622 ms | WiFi: 6.13265 Mbps 5.13713 ms
+[FINISHED] Lambda=1.2328 Run=6 | NR-U: 3.8813 Mbps 9.25762 ms | WiFi: 6.33231 Mbps 5.69115 ms
+Progress: [47/120] complete.
+Progress: [48/120] complete.
+[STARTING] Lambda=4.3288 | Run=6 (Running in background...)
+[STARTING] Lambda=4.3288 | Run=7 (Running in background...)
+[FINISHED] Lambda=1.2328 Run=8 | NR-U: 5.09411 Mbps 6.50599 ms | WiFi: 6.54684 Mbps 5.17311 ms
+Progress: [49/120] complete.
+Progress: [50/120] complete.
+[STARTING] Lambda=4.3288 | Run=8 (Running in background...)
+[STARTING] Lambda=4.3288 | Run=9 (Running in background...)
+[FINISHED] Lambda=2.3101 Run=1 | NR-U: 4.49112 Mbps 8.42094 ms | WiFi: 8.04851 Mbps 4.79011 ms
+[FINISHED] Lambda=2.3101 Run=0 | NR-U: 4.91515 Mbps 7.01546 ms | WiFi: 7.23556 Mbps 5.64993 ms
+Progress: [51/120] complete.
+Progress: [52/120] complete.
+[STARTING] Lambda=8.1113 | Run=0 (Running in background...)
+[STARTING] Lambda=8.1113 | Run=1 (Running in background...)
+[FINISHED] Lambda=2.3101 Run=2 | NR-U: 4.46293 Mbps 8.63124 ms | WiFi: 7.70545 Mbps 4.57353 ms
+Progress: [53/120] complete.
+[STARTING] Lambda=8.1113 | Run=2 (Running in background...)
+[FINISHED] Lambda=2.3101 Run=8 | NR-U: 5.95332 Mbps 5.84231 ms | WiFi: 7.32234 Mbps 5.47118 ms
+[FINISHED] Lambda=2.3101 Run=3 | NR-U: 5.53248 Mbps 7.03587 ms | WiFi: 6.80542 Mbps 5.89778 ms
+Progress: [54/120] complete.
+[STARTING] Lambda=8.1113 | Run=3 (Running in background...)
+[FINISHED] Lambda=2.3101 Run=4 | NR-U: 4.88496 Mbps 7.94741 ms | WiFi: 7.6721 Mbps 4.96651 ms
+Progress: [55/120] complete.
+[STARTING] Lambda=8.1113 | Run=4 (Running in background...)
+[FINISHED] Lambda=2.3101 Run=5 | NR-U: 4.10955 Mbps 9.18152 ms | WiFi: 7.039 Mbps 5.48363 ms
+Progress: [56/120] complete.
+[STARTING] Lambda=8.1113 | Run=5 (Running in background...)
+[FINISHED] Lambda=4.3288 Run=3 | NR-U: 5.92895 Mbps 6.62976 ms | WiFi: 7.01145 Mbps 6.20096 ms
+[FINISHED] Lambda=4.3288 Run=1 | NR-U: 4.42917 Mbps 9.05889 ms | WiFi: 8.41652 Mbps 5.11938 ms
+[FINISHED] Lambda=4.3288 Run=2 | NR-U: 4.64642 Mbps 8.38263 ms | WiFi: 7.78423 Mbps 5.03939 ms
+[FINISHED] Lambda=2.3101 Run=9 | NR-U: 5.27653 Mbps 7.34685 ms | WiFi: 7.02889 Mbps 5.73235 ms
+[FINISHED] Lambda=2.3101 Run=6 | NR-U: 4.37931 Mbps 8.07882 ms | WiFi: 7.37953 Mbps 5.75252 ms
+Progress: [57/120] complete.
+[STARTING] Lambda=8.1113 | Run=6 (Running in background...)
+[FINISHED] Lambda=4.3288 Run=0 | NR-U: 5.20037 Mbps 7.12668 ms | WiFi: 7.47655 Mbps 6.05506 ms
+[FINISHED] Lambda=4.3288 Run=5 | NR-U: 4.12533 Mbps 9.72713 ms | WiFi: 7.39209 Mbps 5.78355 ms
+[FINISHED] Lambda=2.3101 Run=7 | NR-U: 4.49168 Mbps 8.13901 ms | WiFi: 7.35873 Mbps 4.92205 ms
+Progress: [58/120] complete.
+Progress: [59/120] complete.
+Progress: [60/120] complete.
+[STARTING] Lambda=8.1113 | Run=7 (Running in background...)
+Progress: [61/120] complete.
+[STARTING] Lambda=8.1113 | Run=8 (Running in background...)
+[STARTING] Lambda=8.1113 | Run=9 (Running in background...)
+Progress: [62/120] complete.
+Progress: [63/120] complete.
+[STARTING] Lambda=15.1991 | Run=0 (Running in background...)
+Progress: [64/120] complete.
+[STARTING] Lambda=15.1991 | Run=1 (Running in background...)
+[STARTING] Lambda=15.1991 | Run=2 (Running in background...)
+[STARTING] Lambda=15.1991 | Run=3 (Running in background...)
+[FINISHED] Lambda=4.3288 Run=6 | NR-U: 4.71375 Mbps 7.89756 ms | WiFi: 7.55185 Mbps 5.90191 ms
+[FINISHED] Lambda=4.3288 Run=7 | NR-U: 4.73154 Mbps 8.14636 ms | WiFi: 7.37873 Mbps 5.39642 ms
+[FINISHED] Lambda=4.3288 Run=8 | NR-U: 6.49709 Mbps 5.98277 ms | WiFi: 7.55015 Mbps 5.63783 ms
+[FINISHED] Lambda=8.1113 Run=0 | NR-U: 5.22095 Mbps 7.34708 ms | WiFi: 7.41642 Mbps 6.13716 ms
+[FINISHED] Lambda=4.3288 Run=4 | NR-U: 4.87183 Mbps 8.31071 ms | WiFi: 7.83924 Mbps 5.33587 ms
+Progress: [65/120] complete.
+Progress: [66/120] complete.
+[STARTING] Lambda=15.1991 | Run=4 (Running in background...)
+Progress: [67/120] complete.
+Progress: [68/120] complete.
+[STARTING] Lambda=15.1991 | Run=5 (Running in background...)
+[STARTING] Lambda=15.1991 | Run=6 (Running in background...)
+Progress: [69/120] complete.
+[STARTING] Lambda=15.1991 | Run=7 (Running in background...)
+[STARTING] Lambda=15.1991 | Run=8 (Running in background...)
+[FINISHED] Lambda=8.1113 Run=1 | NR-U: 4.30811 Mbps 9.1162 ms | WiFi: 8.45442 Mbps 5.21792 ms
+[FINISHED] Lambda=4.3288 Run=9 | NR-U: 5.35529 Mbps 7.50212 ms | WiFi: 7.45777 Mbps 5.78683 ms
+Progress: [70/120] complete.
+Progress: [71/120] complete.
+[STARTING] Lambda=15.1991 | Run=9 (Running in background...)
+Progress: [72/120] complete.
+[STARTING] Lambda=28.4804 | Run=0 (Running in background...)
+[STARTING] Lambda=28.4804 | Run=1 (Running in background...)
+[FINISHED] Lambda=8.1113 Run=3 | NR-U: 6.29454 Mbps 6.56281 ms | WiFi: 6.78842 Mbps 6.29793 ms
+[FINISHED] Lambda=8.1113 Run=4 | NR-U: 4.82045 Mbps 8.39196 ms | WiFi: 7.72232 Mbps 5.41726 ms
+[FINISHED] Lambda=8.1113 Run=5 | NR-U: 4.17449 Mbps 9.57127 ms | WiFi: 7.24316 Mbps 5.91543 ms
+[FINISHED] Lambda=8.1113 Run=2 | NR-U: 4.88251 Mbps 8.19657 ms | WiFi: 7.48033 Mbps 5.01941 ms
+Progress: [73/120] complete.
+Progress: [74/120] complete.
+[STARTING] Lambda=28.4804 | Run=2 (Running in background...)
+Progress: [75/120] complete.
+[STARTING] Lambda=28.4804 | Run=3 (Running in background...)
+Progress: [76/120] complete.
+[STARTING] Lambda=28.4804 | Run=4 (Running in background...)
+[STARTING] Lambda=28.4804 | Run=5 (Running in background...)
+[FINISHED] Lambda=8.1113 Run=8 | NR-U: 6.48605 Mbps 6.03054 ms | WiFi: 7.4728 Mbps 5.64592 ms
+[FINISHED] Lambda=15.1991 Run=2 | NR-U: 4.75243 Mbps 8.58785 ms | WiFi: 7.47344 Mbps 5.06775 ms
+[FINISHED] Lambda=8.1113 Run=6 | NR-U: 4.71258 Mbps 8.05187 ms | WiFi: 7.53212 Mbps 5.75618 ms
+Progress: [77/120] complete.
+[STARTING] Lambda=28.4804 | Run=6 (Running in background...)
+[FINISHED] Lambda=8.1113 Run=9 | NR-U: 5.46065 Mbps 7.42533 ms | WiFi: 7.30526 Mbps 5.86815 ms
+[FINISHED] Lambda=15.1991 Run=3 | NR-U: 6.35076 Mbps 6.56131 ms | WiFi: 6.75025 Mbps 6.2632 ms
+[FINISHED] Lambda=15.1991 Run=5 | NR-U: 4.1394 Mbps 9.44734 ms | WiFi: 7.33406 Mbps 5.63829 ms
+[FINISHED] Lambda=15.1991 Run=0 | NR-U: 4.97738 Mbps 7.19321 ms | WiFi: 7.5427 Mbps 5.86975 ms
+[FINISHED] Lambda=15.1991 Run=7 | NR-U: 4.69215 Mbps 8.14948 ms | WiFi: 7.50018 Mbps 5.36725 ms
+[FINISHED] Lambda=15.1991 Run=1 | NR-U: 4.34505 Mbps 9.1335 ms | WiFi: 8.31704 Mbps 5.31903 ms
+[FINISHED] Lambda=15.1991 Run=6 | NR-U: 4.66346 Mbps 8.44297 ms | WiFi: 7.50302 Mbps 6.09897 ms
+[FINISHED] Lambda=15.1991 Run=4 | NR-U: 4.96118 Mbps 8.24036 ms | WiFi: 7.79281 Mbps 5.19177 ms
+[FINISHED] Lambda=15.1991 Run=8 | NR-U: 6.83656 Mbps 5.56634 ms | WiFi: 7.25896 Mbps 5.66925 ms
+[FINISHED] Lambda=15.1991 Run=9 | NR-U: 5.41702 Mbps 7.58303 ms | WiFi: 7.32235 Mbps 5.9003 ms
+[FINISHED] Lambda=8.1113 Run=7 | NR-U: 4.75696 Mbps 8.0797 ms | WiFi: 7.41143 Mbps 5.37347 ms
+Progress: [78/120] complete.
+Progress: [79/120] complete.
+[STARTING] Lambda=28.4804 | Run=7 (Running in background...)
+[STARTING] Lambda=28.4804 | Run=8 (Running in background...)
+Progress: [80/120] complete.
+Progress: [81/120] complete.
+[STARTING] Lambda=28.4804 | Run=9 (Running in background...)
+Progress: [82/120] complete.
+[STARTING] Lambda=53.3670 | Run=0 (Running in background...)
+Progress: [83/120] complete.
+[STARTING] Lambda=53.3670 | Run=1 (Running in background...)
+Progress: [84/120] complete.
+Progress: [85/120] complete.
+[STARTING] Lambda=53.3670 | Run=2 (Running in background...)
+Progress: [86/120] complete.
+[STARTING] Lambda=53.3670 | Run=4 (Running in background...)
+[STARTING] Lambda=53.3670 | Run=3 (Running in background...)
+Progress: [87/120] complete.
+Progress: [88/120] complete.
+[STARTING] Lambda=53.3670 | Run=6 (Running in background...)
+Progress: [89/120] complete.
+[STARTING] Lambda=53.3670 | Run=5 (Running in background...)
+[STARTING] Lambda=53.3670 | Run=7 (Running in background...)
+Progress: [90/120] complete.
+[STARTING] Lambda=53.3670 | Run=8 (Running in background...)
+[STARTING] Lambda=53.3670 | Run=9 (Running in background...)
+[FINISHED] Lambda=28.4804 Run=1 | NR-U: 4.34505 Mbps 9.1335 ms | WiFi: 8.31704 Mbps 5.31903 ms
+[FINISHED] Lambda=28.4804 Run=4 | NR-U: 4.96118 Mbps 8.24036 ms | WiFi: 7.79281 Mbps 5.19177 ms
+[FINISHED] Lambda=28.4804 Run=2 | NR-U: 4.75243 Mbps 8.58785 ms | WiFi: 7.47344 Mbps 5.06775 ms
+[FINISHED] Lambda=28.4804 Run=0 | NR-U: 4.97738 Mbps 7.19321 ms | WiFi: 7.5427 Mbps 5.86975 ms
+Progress: [91/120] complete.
+Progress: [92/120] complete.
+[STARTING] Lambda=100.0000 | Run=0 (Running in background...)
+Progress: [93/120] complete.
+[STARTING] Lambda=100.0000 | Run=1 (Running in background...)
+[STARTING] Lambda=100.0000 | Run=2 (Running in background...)
+[FINISHED] Lambda=28.4804 Run=3 | NR-U: 6.35076 Mbps 6.56131 ms | WiFi: 6.75025 Mbps 6.2632 ms
+Progress: [94/120] complete.
+Progress: [95/120] complete.
+[STARTING] Lambda=100.0000 | Run=3 (Running in background...)
+[STARTING] Lambda=100.0000 | Run=4 (Running in background...)
+[FINISHED] Lambda=28.4804 Run=5 | NR-U: 4.1394 Mbps 9.44734 ms | WiFi: 7.33406 Mbps 5.63829 ms
+Progress: [96/120] complete.
+[STARTING] Lambda=100.0000 | Run=5 (Running in background...)
+[FINISHED] Lambda=28.4804 Run=6 | NR-U: 4.66346 Mbps 8.44297 ms | WiFi: 7.50302 Mbps 6.09897 ms
+Progress: [97/120] complete.
+[STARTING] Lambda=100.0000 | Run=6 (Running in background...)
+[FINISHED] Lambda=28.4804 Run=8 | NR-U: 6.83656 Mbps 5.56634 ms | WiFi: 7.25896 Mbps 5.66925 ms
+[FINISHED] Lambda=53.3670 Run=8 | NR-U: 6.83656 Mbps 5.56634 ms | WiFi: 7.25896 Mbps 5.66925 ms
+[FINISHED] Lambda=53.3670 Run=2 | NR-U: 4.75243 Mbps 8.58785 ms | WiFi: 7.47344 Mbps 5.06775 ms
+[FINISHED] Lambda=53.3670 Run=5 | NR-U: 4.1394 Mbps 9.44734 ms | WiFi: 7.33406 Mbps 5.63829 ms
+[FINISHED] Lambda=53.3670 Run=6 | NR-U: 4.66346 Mbps 8.44297 ms | WiFi: 7.50302 Mbps 6.09897 ms
+[FINISHED] Lambda=53.3670 Run=9 | NR-U: 5.41702 Mbps 7.58303 ms | WiFi: 7.32235 Mbps 5.9003 ms
+[FINISHED] Lambda=53.3670 Run=7 | NR-U: 4.69215 Mbps 8.14948 ms | WiFi: 7.50018 Mbps 5.36725 ms
+[FINISHED] Lambda=53.3670 Run=4 | NR-U: 4.96118 Mbps 8.24036 ms | WiFi: 7.79281 Mbps 5.19177 ms
+[FINISHED] Lambda=53.3670 Run=0 | NR-U: 4.97738 Mbps 7.19321 ms | WiFi: 7.5427 Mbps 5.86975 ms
+[FINISHED] Lambda=28.4804 Run=9 | NR-U: 5.41702 Mbps 7.58303 ms | WiFi: 7.32235 Mbps 5.9003 ms
+[FINISHED] Lambda=53.3670 Run=1 | NR-U: 4.34505 Mbps 9.1335 ms | WiFi: 8.31704 Mbps 5.31903 ms
+[FINISHED] Lambda=100.0000 Run=3 | NR-U: 6.35076 Mbps 6.56131 ms | WiFi: 6.75025 Mbps 6.2632 ms
+[FINISHED] Lambda=53.3670 Run=3 | NR-U: 6.35076 Mbps 6.56131 ms | WiFi: 6.75025 Mbps 6.2632 ms
+[FINISHED] Lambda=100.0000 Run=0 | NR-U: 4.97738 Mbps 7.19321 ms | WiFi: 7.5427 Mbps 5.86975 ms
+[FINISHED] Lambda=100.0000 Run=2 | NR-U: 4.75243 Mbps 8.58785 ms | WiFi: 7.47344 Mbps 5.06775 ms
+[FINISHED] Lambda=100.0000 Run=4 | NR-U: 4.96118 Mbps 8.24036 ms | WiFi: 7.79281 Mbps 5.19177 ms
+[FINISHED] Lambda=100.0000 Run=1 | NR-U: 4.34505 Mbps 9.1335 ms | WiFi: 8.31704 Mbps 5.31903 ms
+[FINISHED] Lambda=28.4804 Run=7 | NR-U: 4.69215 Mbps 8.14948 ms | WiFi: 7.50018 Mbps 5.36725 ms
+Progress: [98/120] complete.
+Progress: [99/120] complete.
+[STARTING] Lambda=100.0000 | Run=7 (Running in background...)
+Progress: [100/120] complete.
+[STARTING] Lambda=100.0000 | Run=8 (Running in background...)
+Progress: [101/120] complete.
+Progress: [102/120] complete.
+Progress: [103/120] complete.
+[STARTING] Lambda=100.0000 | Run=9 (Running in background...)
+Progress: [104/120] complete.
+Progress: [105/120] complete.
+Progress: [106/120] complete.
+Progress: [107/120] complete.
+Progress: [108/120] complete.
+Progress: [109/120] complete.
+Progress: [110/120] complete.
+Progress: [111/120] complete.
+Progress: [112/120] complete.
+Progress: [113/120] complete.
+Progress: [114/120] complete.
+Progress: [115/120] complete.
+[FINISHED] Lambda=100.0000 Run=5 | NR-U: 4.1394 Mbps 9.44734 ms | WiFi: 7.33406 Mbps 5.63829 ms
+Progress: [116/120] complete.
+[FINISHED] Lambda=100.0000 Run=6 | NR-U: 4.66346 Mbps 8.44297 ms | WiFi: 7.50302 Mbps 6.09897 ms
+Progress: [117/120] complete.
+[FINISHED] Lambda=100.0000 Run=8 | NR-U: 6.83656 Mbps 5.56634 ms | WiFi: 7.25896 Mbps 5.66925 ms
+[FINISHED] Lambda=100.0000 Run=9 | NR-U: 5.41702 Mbps 7.58303 ms | WiFi: 7.32235 Mbps 5.9003 ms
+[FINISHED] Lambda=100.0000 Run=7 | NR-U: 4.69215 Mbps 8.14948 ms | WiFi: 7.50018 Mbps 5.36725 ms
+Progress: [118/120] complete.
+Progress: [119/120] complete.
+Progress: [120/120] complete.
+
+Done! Results saved to /home/aadharsh/testing/ns-allinone-3.45/ns-3.45/results_fig_7_8.csv

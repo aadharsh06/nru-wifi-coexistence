@@ -1,0 +1,276 @@
+bash run_fig_5_6.sh
+Building simulation...
+Target to build does not exist: scratch/sim-1.cc
+Build successful.
+[STARTING] Density=1e-4 | Run=0 (Running in background...)
+[STARTING] Density=1e-4 | Run=1 (Running in background...)
+[STARTING] Density=1e-4 | Run=3 (Running in background...)
+[STARTING] Density=1e-4 | Run=4 (Running in background...)
+[STARTING] Density=1e-4 | Run=5 (Running in background...)
+[STARTING] Density=1e-4 | Run=6 (Running in background...)
+[STARTING] Density=1e-4 | Run=9 (Running in background...)
+[STARTING] Density=1e-4 | Run=2 (Running in background...)
+[STARTING] Density=1e-4 | Run=8 (Running in background...)
+[STARTING] Density=1.5e-4 | Run=0 (Running in background...)
+[STARTING] Density=1.5e-4 | Run=1 (Running in background...)
+[STARTING] Density=1e-4 | Run=7 (Running in background...)
+[STARTING] Density=1.5e-4 | Run=3 (Running in background...)
+[STARTING] Density=1.5e-4 | Run=4 (Running in background...)
+[STARTING] Density=1.5e-4 | Run=6 (Running in background...)
+[STARTING] Density=1.5e-4 | Run=7 (Running in background...)
+[STARTING] Density=1.5e-4 | Run=8 (Running in background...)
+[STARTING] Density=1.5e-4 | Run=5 (Running in background...)
+[STARTING] Density=1.5e-4 | Run=2 (Running in background...)
+[STARTING] Density=1.5e-4 | Run=9 (Running in background...)
+[FINISHED] Density=1e-4 Run=3 | NR-U: 5.87531 Mbps 2.04244 ms | WiFi: 6.91973 Mbps 1.73417 ms
+[FINISHED] Density=1e-4 Run=4 | NR-U: 4.69644 Mbps 2.55513 ms | WiFi: 8.01427 Mbps 1.49733 ms
+[FINISHED] Density=1e-4 Run=8 | NR-U: 6.55518 Mbps 1.83061 ms | WiFi: 7.28638 Mbps 1.64691 ms
+[FINISHED] Density=1e-4 Run=5 | NR-U: 3.88591 Mbps 3.08808 ms | WiFi: 7.49106 Mbps 1.60191 ms
+[FINISHED] Density=1e-4 Run=9 | NR-U: 5.36741 Mbps 2.23571 ms | WiFi: 7.35727 Mbps 1.63104 ms
+[FINISHED] Density=1e-4 Run=2 | NR-U: 4.77515 Mbps 2.51301 ms | WiFi: 7.72706 Mbps 1.55298 ms
+[FINISHED] Density=1e-4 Run=0 | NR-U: 5.09694 Mbps 2.35435 ms | WiFi: 7.47765 Mbps 1.60478 ms
+Progress: [1/90] complete.
+[STARTING] Density=2e-4 | Run=0 (Running in background...)
+[FINISHED] Density=1e-4 Run=6 | NR-U: 4.61527 Mbps 2.60006 ms | WiFi: 7.60265 Mbps 1.5784 ms
+[FINISHED] Density=1e-4 Run=7 | NR-U: 4.54385 Mbps 2.64093 ms | WiFi: 7.56823 Mbps 1.58558 ms
+[FINISHED] Density=1e-4 Run=1 | NR-U: 4.34647 Mbps 2.76086 ms | WiFi: 8.40913 Mbps 1.42702 ms
+Progress: [2/90] complete.
+Progress: [3/90] complete.
+[STARTING] Density=2e-4 | Run=1 (Running in background...)
+Progress: [4/90] complete.
+[STARTING] Density=2e-4 | Run=2 (Running in background...)
+Progress: [5/90] complete.
+[STARTING] Density=2e-4 | Run=3 (Running in background...)
+Progress: [6/90] complete.
+Progress: [7/90] complete.
+[STARTING] Density=2e-4 | Run=5 (Running in background...)
+Progress: [8/90] complete.
+[STARTING] Density=2e-4 | Run=6 (Running in background...)
+[STARTING] Density=2e-4 | Run=4 (Running in background...)
+Progress: [9/90] complete.
+[STARTING] Density=2e-4 | Run=7 (Running in background...)
+Progress: [10/90] complete.
+[STARTING] Density=2e-4 | Run=8 (Running in background...)
+[STARTING] Density=2e-4 | Run=9 (Running in background...)
+[FINISHED] Density=1.5e-4 Run=4 | NR-U: 4.33991 Mbps 2.76503 ms | WiFi: 6.38454 Mbps 1.87954 ms
+[FINISHED] Density=1.5e-4 Run=8 | NR-U: 5.01823 Mbps 2.39128 ms | WiFi: 6.9604 Mbps 1.72404 ms
+[FINISHED] Density=1.5e-4 Run=5 | NR-U: 3.68429 Mbps 3.25707 ms | WiFi: 6.90193 Mbps 1.73864 ms
+[FINISHED] Density=1.5e-4 Run=6 | NR-U: 4.58008 Mbps 2.62004 ms | WiFi: 6.97819 Mbps 1.71964 ms
+[FINISHED] Density=1.5e-4 Run=3 | NR-U: 4.20364 Mbps 2.85467 ms | WiFi: 7.19429 Mbps 1.66799 ms
+[FINISHED] Density=1.5e-4 Run=2 | NR-U: 4.05594 Mbps 2.95862 ms | WiFi: 6.71693 Mbps 1.78653 ms
+[FINISHED] Density=1.5e-4 Run=9 | NR-U: 4.41751 Mbps 2.71646 ms | WiFi: 6.74965 Mbps 1.77787 ms
+[FINISHED] Density=1.5e-4 Run=0 | NR-U: 4.51569 Mbps 2.6574 ms | WiFi: 6.57027 Mbps 1.82641 ms
+Progress: [11/90] complete.
+[STARTING] Density=2.5e-4 | Run=0 (Running in background...)
+[FINISHED] Density=1.5e-4 Run=1 | NR-U: 4.34168 Mbps 2.76391 ms | WiFi: 5.66651 Mbps 2.11771 ms
+Progress: [12/90] complete.
+Progress: [13/90] complete.
+[STARTING] Density=2.5e-4 | Run=1 (Running in background...)
+Progress: [14/90] complete.
+Progress: [15/90] complete.
+[STARTING] Density=2.5e-4 | Run=3 (Running in background...)
+Progress: [16/90] complete.
+[STARTING] Density=2.5e-4 | Run=2 (Running in background...)
+Progress: [17/90] complete.
+[STARTING] Density=2.5e-4 | Run=6 (Running in background...)
+[STARTING] Density=2.5e-4 | Run=4 (Running in background...)
+[STARTING] Density=2.5e-4 | Run=5 (Running in background...)
+[FINISHED] Density=1.5e-4 Run=7 | NR-U: 3.83552 Mbps 3.12865 ms | WiFi: 6.5537 Mbps 1.83103 ms
+Progress: [18/90] complete.
+Progress: [19/90] complete.
+[STARTING] Density=2.5e-4 | Run=7 (Running in background...)
+Progress: [20/90] complete.
+[STARTING] Density=2.5e-4 | Run=9 (Running in background...)
+[STARTING] Density=2.5e-4 | Run=8 (Running in background...)
+[FINISHED] Density=2e-4 Run=4 | NR-U: 3.52903 Mbps 3.40037 ms | WiFi: 6.03047 Mbps 1.9899 ms
+[FINISHED] Density=2e-4 Run=8 | NR-U: 4.16055 Mbps 2.88423 ms | WiFi: 6.43791 Mbps 1.86396 ms
+[FINISHED] Density=2e-4 Run=2 | NR-U: 3.16139 Mbps 3.7958 ms | WiFi: 6.53939 Mbps 1.83503 ms
+[FINISHED] Density=2e-4 Run=3 | NR-U: 4.07926 Mbps 2.94171 ms | WiFi: 5.15931 Mbps 2.32589 ms
+[FINISHED] Density=2e-4 Run=6 | NR-U: 3.99885 Mbps 3.00087 ms | WiFi: 6.23578 Mbps 1.92438 ms
+[FINISHED] Density=2e-4 Run=9 | NR-U: 3.48129 Mbps 3.447 ms | WiFi: 5.98286 Mbps 2.00573 ms
+[FINISHED] Density=2e-4 Run=0 | NR-U: 3.60654 Mbps 3.32729 ms | WiFi: 5.75424 Mbps 2.08542 ms
+Progress: [21/90] complete.
+[STARTING] Density=3e-4 | Run=0 (Running in background...)
+[FINISHED] Density=2e-4 Run=1 | NR-U: 3.43962 Mbps 3.48876 ms | WiFi: 6.33629 Mbps 1.89385 ms
+Progress: [22/90] complete.
+Progress: [23/90] complete.
+[STARTING] Density=3e-4 | Run=1 (Running in background...)
+Progress: [24/90] complete.
+Progress: [25/90] complete.
+[STARTING] Density=3e-4 | Run=2 (Running in background...)
+[STARTING] Density=3e-4 | Run=3 (Running in background...)
+[STARTING] Density=3e-4 | Run=4 (Running in background...)
+[FINISHED] Density=2e-4 Run=5 | NR-U: 3.51059 Mbps 3.41823 ms | WiFi: 6.30561 Mbps 1.90307 ms
+Progress: [26/90] complete.
+Progress: [27/90] complete.
+[STARTING] Density=3e-4 | Run=5 (Running in background...)
+[STARTING] Density=3e-4 | Run=6 (Running in background...)
+[FINISHED] Density=2e-4 Run=7 | NR-U: 3.21715 Mbps 3.73001 ms | WiFi: 6.4273 Mbps 1.86704 ms
+Progress: [28/90] complete.
+Progress: [29/90] complete.
+Progress: [30/90] complete.
+[STARTING] Density=3e-4 | Run=8 (Running in background...)
+[STARTING] Density=3e-4 | Run=9 (Running in background...)
+[STARTING] Density=3e-4 | Run=7 (Running in background...)
+[FINISHED] Density=2.5e-4 Run=6 | NR-U: 3.44883 Mbps 3.47944 ms | WiFi: 5.69235 Mbps 2.10809 ms
+[FINISHED] Density=2.5e-4 Run=2 | NR-U: 3.26205 Mbps 3.67867 ms | WiFi: 4.95561 Mbps 2.4215 ms
+[FINISHED] Density=2.5e-4 Run=3 | NR-U: 3.78617 Mbps 3.16943 ms | WiFi: 4.52527 Mbps 2.65178 ms
+[FINISHED] Density=2.5e-4 Run=4 | NR-U: 3.20791 Mbps 3.74075 ms | WiFi: 6.54662 Mbps 1.83301 ms
+[FINISHED] Density=2.5e-4 Run=0 | NR-U: 2.92841 Mbps 4.09778 ms | WiFi: 6.3779 Mbps 1.8815 ms
+Progress: [31/90] complete.
+[STARTING] Density=3.5e-4 | Run=0 (Running in background...)
+[FINISHED] Density=2.5e-4 Run=8 | NR-U: 3.4897 Mbps 3.4387 ms | WiFi: 6.23319 Mbps 1.92518 ms
+[FINISHED] Density=2.5e-4 Run=9 | NR-U: 3.08907 Mbps 3.88467 ms | WiFi: 6.11573 Mbps 1.96215 ms
+[FINISHED] Density=2.5e-4 Run=1 | NR-U: 3.16158 Mbps 3.79558 ms | WiFi: 5.53265 Mbps 2.16894 ms
+Progress: [32/90] complete.
+Progress: [33/90] complete.
+Progress: [34/90] complete.
+Progress: [35/90] complete.
+[STARTING] Density=3.5e-4 | Run=3 (Running in background...)
+[STARTING] Density=3.5e-4 | Run=4 (Running in background...)
+[STARTING] Density=3.5e-4 | Run=2 (Running in background...)
+[STARTING] Density=3.5e-4 | Run=1 (Running in background...)
+[FINISHED] Density=2.5e-4 Run=5 | NR-U: 3.37213 Mbps 3.55858 ms | WiFi: 4.95378 Mbps 2.42239 ms
+Progress: [36/90] complete.
+Progress: [37/90] complete.
+[STARTING] Density=3.5e-4 | Run=5 (Running in background...)
+[STARTING] Density=3.5e-4 | Run=6 (Running in background...)
+[FINISHED] Density=2.5e-4 Run=7 | NR-U: 3.08671 Mbps 3.88764 ms | WiFi: 6.02893 Mbps 1.9904 ms
+Progress: [38/90] complete.
+Progress: [39/90] complete.
+Progress: [40/90] complete.
+[STARTING] Density=3.5e-4 | Run=9 (Running in background...)
+[STARTING] Density=3.5e-4 | Run=8 (Running in background...)
+[STARTING] Density=3.5e-4 | Run=7 (Running in background...)
+[FINISHED] Density=3e-4 Run=4 | NR-U: 2.67603 Mbps 4.48426 ms | WiFi: 5.49203 Mbps 2.18498 ms
+[FINISHED] Density=3e-4 Run=3 | NR-U: 2.82001 Mbps 4.2553 ms | WiFi: 5.90751 Mbps 2.03131 ms
+[FINISHED] Density=3e-4 Run=9 | NR-U: 3.02538 Mbps 3.96644 ms | WiFi: 5.33257 Mbps 2.25032 ms
+[FINISHED] Density=3e-4 Run=1 | NR-U: 2.98564 Mbps 4.01924 ms | WiFi: 5.14302 Mbps 2.33326 ms
+[FINISHED] Density=3e-4 Run=6 | NR-U: 2.98901 Mbps 4.01471 ms | WiFi: 5.04686 Mbps 2.37772 ms
+[FINISHED] Density=3e-4 Run=2 | NR-U: 2.80269 Mbps 4.2816 ms | WiFi: 5.261 Mbps 2.28093 ms
+[FINISHED] Density=3e-4 Run=8 | NR-U: 3.23464 Mbps 3.70984 ms | WiFi: 4.77889 Mbps 2.51104 ms
+[FINISHED] Density=3e-4 Run=5 | NR-U: 3.16753 Mbps 3.78844 ms | WiFi: 4.50847 Mbps 2.66165 ms
+[FINISHED] Density=3e-4 Run=0 | NR-U: 3.05702 Mbps 3.92539 ms | WiFi: 4.9337 Mbps 2.43225 ms
+Progress: [41/90] complete.
+Progress: [42/90] complete.
+[STARTING] Density=4e-4 | Run=0 (Running in background...)
+Progress: [43/90] complete.
+Progress: [44/90] complete.
+[STARTING] Density=4e-4 | Run=1 (Running in background...)
+[STARTING] Density=4e-4 | Run=2 (Running in background...)
+Progress: [45/90] complete.
+[STARTING] Density=4e-4 | Run=3 (Running in background...)
+Progress: [46/90] complete.
+Progress: [47/90] complete.
+[STARTING] Density=4e-4 | Run=4 (Running in background...)
+[STARTING] Density=4e-4 | Run=5 (Running in background...)
+[STARTING] Density=4e-4 | Run=6 (Running in background...)
+[FINISHED] Density=3e-4 Run=7 | NR-U: 2.83881 Mbps 4.22712 ms | WiFi: 5.71152 Mbps 2.10102 ms
+Progress: [48/90] complete.
+Progress: [49/90] complete.
+[STARTING] Density=4e-4 | Run=7 (Running in background...)
+Progress: [50/90] complete.
+[STARTING] Density=4e-4 | Run=8 (Running in background...)
+[STARTING] Density=4e-4 | Run=9 (Running in background...)
+[FINISHED] Density=3.5e-4 Run=2 | NR-U: 2.59605 Mbps 4.62241 ms | WiFi: 5.16497 Mbps 2.32335 ms
+[FINISHED] Density=3.5e-4 Run=3 | NR-U: 2.56889 Mbps 4.67129 ms | WiFi: 5.71508 Mbps 2.09971 ms
+[FINISHED] Density=3.5e-4 Run=0 | NR-U: 2.75446 Mbps 4.35657 ms | WiFi: 4.96093 Mbps 2.4189 ms
+Progress: [51/90] complete.
+[STARTING] Density=4.5e-4 | Run=0 (Running in background...)
+[FINISHED] Density=3.5e-4 Run=1 | NR-U: 2.71907 Mbps 4.41327 ms | WiFi: 4.60182 Mbps 2.60766 ms
+Progress: [52/90] complete.
+Progress: [53/90] complete.
+[STARTING] Density=4.5e-4 | Run=1 (Running in background...)
+Progress: [54/90] complete.
+[STARTING] Density=4.5e-4 | Run=2 (Running in background...)
+[STARTING] Density=4.5e-4 | Run=3 (Running in background...)
+[FINISHED] Density=3.5e-4 Run=4 | NR-U: 3.10476 Mbps 3.86503 ms | WiFi: 3.59063 Mbps 3.34204 ms
+Progress: [55/90] complete.
+[STARTING] Density=4.5e-4 | Run=4 (Running in background...)
+[FINISHED] Density=3.5e-4 Run=8 | NR-U: 2.98788 Mbps 4.01622 ms | WiFi: 4.57419 Mbps 2.62342 ms
+[FINISHED] Density=3.5e-4 Run=5 | NR-U: 2.65148 Mbps 4.52577 ms | WiFi: 4.85051 Mbps 2.47397 ms
+Progress: [56/90] complete.
+[STARTING] Density=4.5e-4 | Run=5 (Running in background...)
+[FINISHED] Density=3.5e-4 Run=6 | NR-U: 2.811 Mbps 4.26895 ms | WiFi: 4.79779 Mbps 2.50115 ms
+Progress: [57/90] complete.
+[STARTING] Density=4.5e-4 | Run=6 (Running in background...)
+[FINISHED] Density=3.5e-4 Run=9 | NR-U: 2.71371 Mbps 4.42199 ms | WiFi: 5.47885 Mbps 2.19024 ms
+[FINISHED] Density=3.5e-4 Run=7 | NR-U: 2.6706 Mbps 4.49338 ms | WiFi: 5.12356 Mbps 2.34212 ms
+Progress: [58/90] complete.
+Progress: [59/90] complete.
+[STARTING] Density=4.5e-4 | Run=7 (Running in background...)
+Progress: [60/90] complete.
+[STARTING] Density=4.5e-4 | Run=8 (Running in background...)
+[STARTING] Density=4.5e-4 | Run=9 (Running in background...)
+[FINISHED] Density=4e-4 Run=2 | NR-U: 2.54382 Mbps 4.71731 ms | WiFi: 4.73573 Mbps 2.53393 ms
+[FINISHED] Density=4e-4 Run=1 | NR-U: 2.50998 Mbps 4.78092 ms | WiFi: 4.06293 Mbps 2.95353 ms
+[FINISHED] Density=4e-4 Run=5 | NR-U: 2.30403 Mbps 5.20826 ms | WiFi: 4.87934 Mbps 2.45935 ms
+[FINISHED] Density=4e-4 Run=9 | NR-U: 2.56678 Mbps 4.67511 ms | WiFi: 4.42351 Mbps 2.71278 ms
+[FINISHED] Density=4e-4 Run=7 | NR-U: 2.59035 Mbps 4.63258 ms | WiFi: 3.92429 Mbps 3.05788 ms
+[FINISHED] Density=4.5e-4 Run=3 | NR-U: 2.32667 Mbps 5.1576 ms | WiFi: 4.06766 Mbps 2.9501 ms
+[FINISHED] Density=4.5e-4 Run=0 | NR-U: 2.29691 Mbps 5.2244 ms | WiFi: 4.41658 Mbps 2.71704 ms
+[FINISHED] Density=4e-4 Run=6 | NR-U: 2.59842 Mbps 4.61818 ms | WiFi: 4.46211 Mbps 2.68931 ms
+[FINISHED] Density=4e-4 Run=8 | NR-U: 2.62408 Mbps 4.57302 ms | WiFi: 4.19651 Mbps 2.85952 ms
+[FINISHED] Density=4.5e-4 Run=4 | NR-U: 2.21044 Mbps 5.42878 ms | WiFi: 4.42446 Mbps 2.71219 ms
+[FINISHED] Density=4e-4 Run=0 | NR-U: 2.47242 Mbps 4.85354 ms | WiFi: 4.60195 Mbps 2.60759 ms
+Progress: [61/90] complete.
+Progress: [62/90] complete.
+Progress: [63/90] complete.
+[STARTING] Density=5e-4 | Run=0 (Running in background...)
+[STARTING] Density=5e-4 | Run=2 (Running in background...)
+[STARTING] Density=5e-4 | Run=1 (Running in background...)
+[FINISHED] Density=4e-4 Run=4 | NR-U: 2.39055 Mbps 5.01976 ms | WiFi: 4.48819 Mbps 2.67368 ms
+[FINISHED] Density=4e-4 Run=3 | NR-U: 2.48291 Mbps 4.83305 ms | WiFi: 4.67698 Mbps 2.56576 ms
+Progress: [64/90] complete.
+Progress: [65/90] complete.
+[STARTING] Density=5e-4 | Run=3 (Running in background...)
+Progress: [66/90] complete.
+Progress: [67/90] complete.
+[STARTING] Density=5e-4 | Run=4 (Running in background...)
+[STARTING] Density=5e-4 | Run=5 (Running in background...)
+Progress: [68/90] complete.
+[STARTING] Density=5e-4 | Run=6 (Running in background...)
+Progress: [69/90] complete.
+Progress: [70/90] complete.
+[STARTING] Density=5e-4 | Run=8 (Running in background...)
+Progress: [71/90] complete.
+[STARTING] Density=5e-4 | Run=9 (Running in background...)
+[STARTING] Density=5e-4 | Run=7 (Running in background...)
+[FINISHED] Density=4.5e-4 Run=5 | NR-U: 2.13321 Mbps 5.62533 ms | WiFi: 4.27728 Mbps 2.80552 ms
+[FINISHED] Density=4.5e-4 Run=2 | NR-U: 2.27521 Mbps 5.27423 ms | WiFi: 4.79812 Mbps 2.50098 ms
+[FINISHED] Density=4.5e-4 Run=1 | NR-U: 2.40406 Mbps 4.99155 ms | WiFi: 3.47834 Mbps 3.44993 ms
+Progress: [72/90] complete.
+Progress: [73/90] complete.
+Progress: [74/90] complete.
+Progress: [75/90] complete.
+Progress: [76/90] complete.
+[FINISHED] Density=4.5e-4 Run=9 | NR-U: 2.54909 Mbps 4.70756 ms | WiFi: 3.46679 Mbps 3.46142 ms
+[FINISHED] Density=4.5e-4 Run=8 | NR-U: 2.45983 Mbps 4.87838 ms | WiFi: 4.15906 Mbps 2.88527 ms
+[FINISHED] Density=4.5e-4 Run=6 | NR-U: 2.33346 Mbps 5.14259 ms | WiFi: 4.33969 Mbps 2.76518 ms
+Progress: [77/90] complete.
+[FINISHED] Density=4.5e-4 Run=7 | NR-U: 2.24647 Mbps 5.34172 ms | WiFi: 4.22637 Mbps 2.83931 ms
+Progress: [78/90] complete.
+Progress: [79/90] complete.
+Progress: [80/90] complete.
+[FINISHED] Density=5e-4 Run=2 | NR-U: 2.16338 Mbps 5.54687 ms | WiFi: 4.27949 Mbps 2.80407 ms
+[FINISHED] Density=5e-4 Run=1 | NR-U: 2.19252 Mbps 5.47316 ms | WiFi: 3.56781 Mbps 3.36341 ms
+[FINISHED] Density=5e-4 Run=6 | NR-U: 2.13243 Mbps 5.62737 ms | WiFi: 3.87254 Mbps 3.09874 ms
+[FINISHED] Density=5e-4 Run=8 | NR-U: 2.22114 Mbps 5.40263 ms | WiFi: 4.48461 Mbps 2.67582 ms
+[FINISHED] Density=5e-4 Run=9 | NR-U: 2.29178 Mbps 5.2361 ms | WiFi: 3.62575 Mbps 3.30966 ms
+[FINISHED] Density=5e-4 Run=4 | NR-U: 2.05366 Mbps 5.84322 ms | WiFi: 3.78457 Mbps 3.17077 ms
+[FINISHED] Density=5e-4 Run=0 | NR-U: 2.27949 Mbps 5.26433 ms | WiFi: 3.41716 Mbps 3.51169 ms
+Progress: [81/90] complete.
+Progress: [82/90] complete.
+Progress: [83/90] complete.
+[FINISHED] Density=5e-4 Run=7 | NR-U: 2.17653 Mbps 5.51336 ms | WiFi: 3.76943 Mbps 3.1835 ms
+[FINISHED] Density=5e-4 Run=5 | NR-U: 2.04392 Mbps 5.87106 ms | WiFi: 3.83001 Mbps 3.13315 ms
+[FINISHED] Density=5e-4 Run=3 | NR-U: 2.26172 Mbps 5.3057 ms | WiFi: 3.36532 Mbps 3.56578 ms
+Progress: [84/90] complete.
+Progress: [85/90] complete.
+Progress: [86/90] complete.
+Progress: [87/90] complete.
+Progress: [88/90] complete.
+Progress: [89/90] complete.
+Progress: [90/90] complete.
+
+Done! Results saved to /home/aadharsh/testing/ns-allinone-3.45/ns-3.45/results_fig_5_6.csv

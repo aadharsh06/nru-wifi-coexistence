@@ -1,0 +1,15 @@
+==================================================
+RUNNING SCENARIO 1: Varying Arrival Rate (Fig 1 & 2)
+==================================================
+Testing Lambda 0.1000 pkts/ms... [Done] W_TP:1.22 U_TP:1.24 | W_Dly:0.41ms U_Dly:0.29ms
+Testing Lambda 0.1874 pkts/ms... [Done] W_TP:2.31 U_TP:2.31 | W_Dly:0.43ms U_Dly:0.33ms
+Testing Lambda 0.3511 pkts/ms... [Done] W_TP:4.32 U_TP:4.29 | W_Dly:0.49ms U_Dly:0.45ms
+Testing Lambda 0.6579 pkts/ms... [Done] W_TP:8.00 U_TP:7.91 | W_Dly:0.70ms U_Dly:1.07ms
+Testing Lambda 1.2328 pkts/ms... [Done] W_TP:13.40 U_TP:12.02 | W_Dly:1.38ms U_Dly:2.37ms
+Testing Lambda 2.3101 pkts/ms... [Done] W_TP:17.76 U_TP:13.82 | W_Dly:1.92ms U_Dly:3.39ms
+Testing Lambda 4.3288 pkts/ms... [Done] W_TP:18.70 U_TP:14.03 | W_Dly:2.29ms U_Dly:3.85ms
+Testing Lambda 8.1113 pkts/ms... [Done] W_TP:18.71 U_TP:14.02 | W_Dly:2.43ms U_Dly:4.07ms
+Testing Lambda 15.1991 pkts/ms... [Done] W_TP:18.71 U_TP:14.02 | W_Dly:2.49ms U_Dly:4.18ms
+Testing Lambda 28.4804 pkts/ms... [Done] W_TP:18.71 U_TP:14.02 | W_Dly:2.52ms U_Dly:4.24ms
+Testing Lambda 53.3670 pkts/ms... [Done] W_TP:18.71 U_TP:14.02 | W_Dly:2.54ms U_Dly:4.27ms
+Testing Lambda 100.0000 pkts/ms... [Done] W_TP:18.71 U_TP:14.02 | W_Dly:2.55ms U_Dly:4.29ms

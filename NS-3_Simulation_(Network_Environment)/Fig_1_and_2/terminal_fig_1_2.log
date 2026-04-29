@@ -1,0 +1,180 @@
+rate=40 run=0 | NRU: 3.57881 Mbps 3.35307 ms | WiFi: 7.22618 Mbps 1.66063 ms
+[1/90] completed
+rate=40 run=1 | NRU: 3.07886 Mbps 3.89754 ms | WiFi: 8.15929 Mbps 1.47072 ms
+[2/90] completed
+rate=40 run=2 | NRU: 2.9183 Mbps 4.11199 ms | WiFi: 7.63786 Mbps 1.57112 ms
+[3/90] completed
+rate=40 run=3 | NRU: 3.77082 Mbps 3.18233 ms | WiFi: 6.88675 Mbps 1.74248 ms
+[4/90] completed
+rate=40 run=4 | NRU: 2.98786 Mbps 4.01626 ms | WiFi: 7.66855 Mbps 1.56483 ms
+[5/90] completed
+rate=40 run=5 | NRU: 3.00806 Mbps 3.98928 ms | WiFi: 6.78673 Mbps 1.76816 ms
+[6/90] completed
+rate=40 run=6 | NRU: 2.96807 Mbps 4.04303 ms | WiFi: 7.58609 Mbps 1.58184 ms
+[7/90] completed
+rate=40 run=7 | NRU: 3.05533 Mbps 3.92756 ms | WiFi: 7.3149 Mbps 1.64049 ms
+[8/90] completed
+rate=40 run=8 | NRU: 4.35997 Mbps 2.75231 ms | WiFi: 7.1527 Mbps 1.67769 ms
+[9/90] completed
+rate=40 run=9 | NRU: 3.58496 Mbps 3.34732 ms | WiFi: 7.33285 Mbps 1.63647 ms
+[10/90] completed
+rate=50 run=0 | NRU: 3.84268 Mbps 3.12282 ms | WiFi: 7.59676 Mbps 1.57962 ms
+[11/90] completed
+rate=50 run=1 | NRU: 3.38477 Mbps 3.54529 ms | WiFi: 8.31716 Mbps 1.4428 ms
+[12/90] completed
+rate=50 run=2 | NRU: 3.23932 Mbps 3.70448 ms | WiFi: 7.85667 Mbps 1.52736 ms
+[13/90] completed
+rate=50 run=3 | NRU: 4.28284 Mbps 2.80188 ms | WiFi: 6.95631 Mbps 1.72505 ms
+[14/90] completed
+rate=50 run=4 | NRU: 3.62189 Mbps 3.31319 ms | WiFi: 7.83028 Mbps 1.53251 ms
+[15/90] completed
+rate=50 run=5 | NRU: 3.26735 Mbps 3.6727 ms | WiFi: 7.0679 Mbps 1.69782 ms
+[16/90] completed
+rate=50 run=6 | NRU: 3.44282 Mbps 3.48552 ms | WiFi: 7.39039 Mbps 1.62373 ms
+[17/90] completed
+rate=50 run=8 | NRU: 5.07839 Mbps 2.36295 ms | WiFi: 7.12342 Mbps 1.68459 ms
+[18/90] completed
+rate=50 run=7 | NRU: 3.39129 Mbps 3.53847 ms | WiFi: 7.40327 Mbps 1.62091 ms
+[19/90] completed
+rate=50 run=9 | NRU: 3.88623 Mbps 3.08782 ms | WiFi: 7.39383 Mbps 1.62297 ms
+[20/90] completed
+rate=60 run=0 | NRU: 4.16299 Mbps 2.88254 ms | WiFi: 7.4463 Mbps 1.61154 ms
+[21/90] completed
+rate=60 run=1 | NRU: 3.71319 Mbps 3.23172 ms | WiFi: 8.33587 Mbps 1.43956 ms
+[22/90] completed
+rate=60 run=2 | NRU: 3.61618 Mbps 3.31842 ms | WiFi: 7.87654 Mbps 1.52351 ms
+[23/90] completed
+rate=60 run=3 | NRU: 4.77064 Mbps 2.51539 ms | WiFi: 6.82162 Mbps 1.75911 ms
+[24/90] completed
+rate=60 run=4 | NRU: 3.8685 Mbps 3.10197 ms | WiFi: 7.79184 Mbps 1.54007 ms
+[25/90] completed
+rate=60 run=5 | NRU: 3.51479 Mbps 3.41414 ms | WiFi: 7.19268 Mbps 1.66836 ms
+[26/90] completed
+rate=60 run=6 | NRU: 3.78401 Mbps 3.17124 ms | WiFi: 7.42608 Mbps 1.61593 ms
+[27/90] completed
+rate=60 run=7 | NRU: 3.71966 Mbps 3.2261 ms | WiFi: 7.57361 Mbps 1.58445 ms
+[28/90] completed
+rate=60 run=8 | NRU: 5.18337 Mbps 2.3151 ms | WiFi: 7.43931 Mbps 1.61305 ms
+[29/90] completed
+rate=60 run=9 | NRU: 4.60371 Mbps 2.6066 ms | WiFi: 7.32725 Mbps 1.63772 ms
+[30/90] completed
+rate=70 run=0 | NRU: 4.66315 Mbps 2.57337 ms | WiFi: 7.28162 Mbps 1.64798 ms
+[31/90] completed
+rate=70 run=1 | NRU: 3.86029 Mbps 3.10857 ms | WiFi: 8.66592 Mbps 1.38474 ms
+[32/90] completed
+rate=70 run=2 | NRU: 4.14519 Mbps 2.89492 ms | WiFi: 7.65826 Mbps 1.56694 ms
+[33/90] completed
+rate=70 run=3 | NRU: 4.94441 Mbps 2.42699 ms | WiFi: 7.01069 Mbps 1.71167 ms
+[34/90] completed
+rate=70 run=4 | NRU: 4.1778 Mbps 2.87233 ms | WiFi: 7.91808 Mbps 1.51552 ms
+[35/90] completed
+rate=70 run=5 | NRU: 3.76711 Mbps 3.18547 ms | WiFi: 7.12032 Mbps 1.68532 ms
+[36/90] completed
+rate=70 run=6 | NRU: 4.081 Mbps 2.94045 ms | WiFi: 7.41056 Mbps 1.61931 ms
+[37/90] completed
+rate=70 run=7 | NRU: 3.99821 Mbps 3.00134 ms | WiFi: 7.522 Mbps 1.59532 ms
+[38/90] completed
+rate=70 run=8 | NRU: 5.70894 Mbps 2.10197 ms | WiFi: 7.48866 Mbps 1.60242 ms
+[39/90] completed
+rate=70 run=9 | NRU: 4.56214 Mbps 2.63035 ms | WiFi: 7.4415 Mbps 1.61258 ms
+[40/90] completed
+rate=80 run=0 | NRU: 5.06432 Mbps 2.36952 ms | WiFi: 7.43435 Mbps 1.61413 ms
+[41/90] completed
+rate=80 run=1 | NRU: 4.19409 Mbps 2.86117 ms | WiFi: 8.47016 Mbps 1.41674 ms
+[42/90] completed
+rate=80 run=2 | NRU: 4.12874 Mbps 2.90646 ms | WiFi: 7.92524 Mbps 1.51415 ms
+[43/90] completed
+rate=80 run=3 | NRU: 5.35659 Mbps 2.24023 ms | WiFi: 7.02548 Mbps 1.70807 ms
+[44/90] completed
+rate=80 run=4 | NRU: 4.39228 Mbps 2.73206 ms | WiFi: 7.70994 Mbps 1.55643 ms
+[45/90] completed
+rate=80 run=5 | NRU: 3.81213 Mbps 3.14785 ms | WiFi: 7.37948 Mbps 1.62613 ms
+[46/90] completed
+rate=80 run=6 | NRU: 4.34993 Mbps 2.75866 ms | WiFi: 7.59118 Mbps 1.58078 ms
+[47/90] completed
+rate=80 run=7 | NRU: 4.12934 Mbps 2.90603 ms | WiFi: 7.66229 Mbps 1.56611 ms
+[48/90] completed
+rate=80 run=8 | NRU: 5.79214 Mbps 2.07177 ms | WiFi: 7.66523 Mbps 1.56551 ms
+[49/90] completed
+rate=80 run=9 | NRU: 4.98321 Mbps 2.40809 ms | WiFi: 7.39461 Mbps 1.6228 ms
+[50/90] completed
+rate=90 run=0 | NRU: 5.2554 Mbps 2.28337 ms | WiFi: 7.34183 Mbps 1.63447 ms
+[51/90] completed
+rate=90 run=1 | NRU: 4.53495 Mbps 2.64612 ms | WiFi: 8.35687 Mbps 1.43594 ms
+[52/90] completed
+rate=90 run=2 | NRU: 4.51688 Mbps 2.6567 ms | WiFi: 7.7141 Mbps 1.55559 ms
+[53/90] completed
+rate=90 run=3 | NRU: 5.56066 Mbps 2.15802 ms | WiFi: 7.09531 Mbps 1.69126 ms
+[54/90] completed
+rate=90 run=4 | NRU: 4.74988 Mbps 2.52638 ms | WiFi: 7.76693 Mbps 1.54501 ms
+[55/90] completed
+rate=90 run=5 | NRU: 4.24912 Mbps 2.82412 ms | WiFi: 7.35991 Mbps 1.63045 ms
+[56/90] completed
+rate=90 run=6 | NRU: 4.43571 Mbps 2.70532 ms | WiFi: 7.69877 Mbps 1.55869 ms
+[57/90] completed
+rate=90 run=7 | NRU: 4.35084 Mbps 2.75809 ms | WiFi: 7.80864 Mbps 1.53676 ms
+[58/90] completed
+rate=90 run=8 | NRU: 6.24569 Mbps 1.92133 ms | WiFi: 7.63187 Mbps 1.57235 ms
+[59/90] completed
+rate=90 run=9 | NRU: 5.00539 Mbps 2.39742 ms | WiFi: 7.57232 Mbps 1.58472 ms
+[60/90] completed
+rate=100 run=0 | NRU: 5.14547 Mbps 2.33215 ms | WiFi: 7.55489 Mbps 1.58837 ms
+[61/90] completed
+rate=100 run=1 | NRU: 4.51674 Mbps 2.65678 ms | WiFi: 8.70928 Mbps 1.37784 ms
+[62/90] completed
+rate=100 run=2 | NRU: 4.67992 Mbps 2.56415 ms | WiFi: 7.59742 Mbps 1.57948 ms
+[63/90] completed
+rate=100 run=3 | NRU: 5.85322 Mbps 2.05015 ms | WiFi: 7.02444 Mbps 1.70832 ms
+[64/90] completed
+rate=100 run=4 | NRU: 4.91445 Mbps 2.44178 ms | WiFi: 7.85538 Mbps 1.52762 ms
+[65/90] completed
+rate=100 run=5 | NRU: 4.33596 Mbps 2.76755 ms | WiFi: 7.22037 Mbps 1.66197 ms
+[66/90] completed
+rate=100 run=6 | NRU: 4.58739 Mbps 2.61587 ms | WiFi: 7.5832 Mbps 1.58244 ms
+[67/90] completed
+rate=100 run=7 | NRU: 4.54082 Mbps 2.6427 ms | WiFi: 7.78218 Mbps 1.54198 ms
+[68/90] completed
+rate=100 run=8 | NRU: 6.74222 Mbps 1.77983 ms | WiFi: 7.63339 Mbps 1.57204 ms
+[69/90] completed
+rate=100 run=9 | NRU: 5.55131 Mbps 2.16165 ms | WiFi: 7.3853 Mbps 1.62485 ms
+[70/90] completed
+rate=110 run=0 | NRU: 5.63445 Mbps 2.12976 ms | WiFi: 7.26151 Mbps 1.65255 ms
+[71/90] completed
+rate=110 run=1 | NRU: 4.63542 Mbps 2.58876 ms | WiFi: 8.59977 Mbps 1.39539 ms
+[72/90] completed
+rate=110 run=2 | NRU: 4.94536 Mbps 2.42652 ms | WiFi: 7.74058 Mbps 1.55027 ms
+[73/90] completed
+rate=110 run=3 | NRU: 6.03965 Mbps 1.98687 ms | WiFi: 7.04675 Mbps 1.70291 ms
+[74/90] completed
+rate=110 run=4 | NRU: 5.05682 Mbps 2.37303 ms | WiFi: 7.95386 Mbps 1.5087 ms
+[75/90] completed
+rate=110 run=5 | NRU: 4.60927 Mbps 2.60345 ms | WiFi: 7.2009 Mbps 1.66646 ms
+[76/90] completed
+rate=110 run=6 | NRU: 4.76325 Mbps 2.51929 ms | WiFi: 7.71797 Mbps 1.55481 ms
+[77/90] completed
+rate=110 run=8 | NRU: 6.71477 Mbps 1.78711 ms | WiFi: 7.70641 Mbps 1.55715 ms
+[78/90] completed
+rate=110 run=7 | NRU: 4.71667 Mbps 2.54417 ms | WiFi: 7.85887 Mbps 1.52694 ms
+[79/90] completed
+rate=110 run=9 | NRU: 5.62305 Mbps 2.13407 ms | WiFi: 7.48842 Mbps 1.60247 ms
+[80/90] completed
+rate=120 run=0 | NRU: 5.81131 Mbps 2.06494 ms | WiFi: 7.41452 Mbps 1.61845 ms
+[81/90] completed
+rate=120 run=1 | NRU: 4.76468 Mbps 2.51853 ms | WiFi: 8.56625 Mbps 1.40085 ms
+[82/90] completed
+rate=120 run=2 | NRU: 4.90953 Mbps 2.44423 ms | WiFi: 7.76743 Mbps 1.54491 ms
+[83/90] completed
+rate=120 run=3 | NRU: 6.1862 Mbps 1.9398 ms | WiFi: 6.93276 Mbps 1.73091 ms
+[84/90] completed
+rate=120 run=4 | NRU: 5.22049 Mbps 2.29863 ms | WiFi: 8.10657 Mbps 1.48028 ms
+[85/90] completed
+rate=120 run=5 | NRU: 4.69155 Mbps 2.55779 ms | WiFi: 7.19188 Mbps 1.66855 ms
+[86/90] completed
+rate=120 run=6 | NRU: 4.8419 Mbps 2.47836 ms | WiFi: 7.61385 Mbps 1.57607 ms
+[87/90] completed
+rate=120 run=8 | NRU: 7.07112 Mbps 1.69704 ms | WiFi: 7.64122 Mbps 1.57043 ms
+[88/90] completed
+rate=120 run=7 | NRU: 4.71803 Mbps 2.54344 ms | WiFi: 7.90435 Mbps 1.51815 ms
+[89/90] completed
+rate=120 run=9 | NRU: 5.82422 Mbps 2.06036 ms | WiFi: 7.48064 Mbps 1.60414 ms
+[90/90] completed
