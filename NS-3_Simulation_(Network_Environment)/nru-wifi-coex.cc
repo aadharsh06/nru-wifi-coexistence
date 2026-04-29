@@ -11,6 +11,7 @@ NOTE: To be placed in ns-3.xx/scratch
 
 // NS-3 Toolkits
 
+#include "ns3/netanim-module.h"
 #include "ns3/applications-module.h"
 #include "ns3/core-module.h"
 #include "ns3/internet-module.h"
