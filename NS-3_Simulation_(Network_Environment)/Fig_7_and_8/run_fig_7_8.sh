@@ -48,7 +48,7 @@ run_sim() {
 
     echo "[STARTING] Lambda=$rate | Run=$run (Running in background...)"
 
-    OUTPUT=$(./ns3 run "scratch/sim-1.cc \
+    OUTPUT=$(./ns3 run "scratch/nru-wifi-coex.cc \
         --arrivalRate=$rate \
         --runId=$run \
         --simTime=5 \

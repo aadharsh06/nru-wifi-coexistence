@@ -14,7 +14,7 @@ cd "$SCRIPT_DIR" || exit 1
 # Build the .cc file
 
 echo "Building simulation..."
-./ns3 build scratch/sim-1.cc 2>&1 | tail -10 
+./ns3 build scratch/nru-wifi-coex.cc 2>&1 | tail -10 
 if [ $? -ne 0 ]; then
     echo "BUILD FAILED."
     exit 1
@@ -48,7 +48,7 @@ run_sim() {
 
     echo "[STARTING] Density=$density | Run=$run (Running in background...)"
 
-    OUTPUT=$(./ns3 run "scratch/sim-1.cc \
+    OUTPUT=$(./ns3 run "scratch/nru-wifi-coex.cc \
         --arrivalRate=3.0 \
         --runId=$run \
         --simTime=5 \
