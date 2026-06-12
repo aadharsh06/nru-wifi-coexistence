@@ -73,7 +73,6 @@ The default configuration parameters utilized within the simulation environment 
 
 Extensive simulation results validate the theoretical coexistence models under varying environmental conditions:
 
-* 
 **Transmission Rate:** Increasing the NR-U transmission rate reduces the physical channel occupancy time per packet, significantly improving NR-U throughput and reducing queueing delay.
 
 
